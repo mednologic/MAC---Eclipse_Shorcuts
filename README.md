@@ -1,7 +1,6 @@
-# Eclipse_MAC_Shorcuts
-# Author J.Oriol López Bosch
-
-Shorcuts for eclipse on MAC
+# Shorcuts for eclipse on MAC
 
 
 EDIT MULTIPLE LINES : option+command+A
+
+### Author J.Oriol López Bosch
